@@ -1,1 +1,1 @@
-# atlas-higher_level_programming
+This project im starting out using python
