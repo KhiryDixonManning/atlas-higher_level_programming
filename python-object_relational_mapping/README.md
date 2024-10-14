@@ -1,0 +1,1 @@
+ I'll be learning about ORM in python
