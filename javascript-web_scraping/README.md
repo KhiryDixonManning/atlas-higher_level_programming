@@ -1,0 +1,1 @@
+in this project im web scraping or more like learning a small bit about it
